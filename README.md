@@ -1,7 +1,7 @@
 # Graphs
 
 ## Objectives
-
+# It's important
 * [Graph Intro](objectives/graph-intro)
 * [Graph Representations](objectives/graph-representations)
 * [Breadth First Search](objectives/breadth-first-search)
